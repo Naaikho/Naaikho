@@ -38,12 +38,10 @@ Naikho = developer mindset + designer eye + maker energy
 
 ## Public projects
 
-- [`vivawallet-sdk`](https://github.com/Naaikho/vivawallet-sdk) — non-official VivaWallet API JavaScript/TypeScript wrapper.
-- [`nk-layout`](https://github.com/Naaikho/nk-layout) — JSX layout components like `Box` and `Container` with styled-components.
-- [`nk-shell`](https://github.com/Naaikho/nk-shell) — personal shell utilities and tooling experiments.
-- [`team-maker`](https://github.com/Naaikho/team-maker) — app to build balanced teams, rate them, and select a winner.
-- [`hollow-chan-bot`](https://github.com/Naaikho/hollow-chan-bot) — anime-themed Discord bot.
-- [`6-mans-bot-fr`](https://github.com/Naaikho/6-mans-bot-fr) — Discord bot for Rocket League 6 Mans FR.
+- [`vivawallet-sdk`](https://github.com/Naaikho/vivawallet-sdk) — non-official VivaWallet API JavaScript/TypeScript SDK.
+- [`ts-flp`](https://github.com/SpendLessDaw/ts-flp) — TypeScript library for reading and modifying FL Studio `.flp` projects.
+- [`spendless-releases`](https://github.com/SpendLessDaw/spendless-releases/releases) — public releases and changelogs for SpendLess Daw.
+- [`epicworkshop`](https://github.com/Naaikho/epicworkshop) — source code of Epic Workshop.
 
 ## Stack
 
@@ -58,6 +56,7 @@ Naikho = developer mindset + designer eye + maker energy
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -70,7 +69,7 @@ Naikho = developer mindset + designer eye + maker energy
 ### I usually work with
 
 - **Frontend:** React, Next.js, Vue, Nuxt, Tailwind CSS, design systems, dashboards, SaaS interfaces.
-- **Backend:** Node.js, Express.js, Prisma, SQL databases, APIs, auth, payments, real-time features.
+- **Backend:** Node.js, Express.js, NestJS, Prisma, SQL databases, APIs, auth, payments, real-time features.
 - **Mobile & desktop:** React Native / Expo, Electron, Android-oriented operational apps.
 - **Product & design:** UX/UI, Figma, Adobe tools, polished interfaces, brand-aware product experiences.
 - **Automation & AI:** AI assistants, Discord bots, CLI tools, workflow automation, long-term personal systems.
