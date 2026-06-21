@@ -11,6 +11,13 @@ Based in Grenoble, France · building polished products, practical tools, and cr
 [![Mail](https://img.shields.io/badge/Mail-pro%40naikho.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro@naikho.com)
 [![X](https://img.shields.io/badge/X-NaikhoDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NaikhoDev)
 
+<br />
+
+![Naikho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naaikho&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naaikho&layout=compact&theme=dark&hide_border=true)
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naaikho&theme=github-compact&hide_border=true&area=true)
+
 </div>
 
 ---
@@ -73,15 +80,6 @@ Naikho = developer mindset + designer eye + maker energy
 - **Mobile & desktop:** React Native / Expo, Electron, Android-oriented operational apps.
 - **Product & design:** UX/UI, Figma, Adobe tools, polished interfaces, brand-aware product experiences.
 - **Automation & AI:** AI assistants, Discord bots, CLI tools, workflow automation, long-term personal systems.
-
-## GitHub activity
-
-<div align="center">
-
-![Naikho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naaikho&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naaikho&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
